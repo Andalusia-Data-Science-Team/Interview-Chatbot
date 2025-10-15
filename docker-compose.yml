@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  evaluator:
+    build: .
+    ports:
+      - "8051:8051"
+    volumes:
+      - .:/usr/src/app
+    restart: always
+    env_file:
+      - .env
+    container_name: dentistry_evaluator_app
