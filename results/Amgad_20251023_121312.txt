@@ -1,0 +1,60 @@
+Candidate: Amgad
+Date: 2025-10-23 12:13
+============================================================
+
+Candidate Profile
+------------------------------------------------------------
+Full Name: Amgad
+Age: 43
+Years Experience: 17
+Location: Alexandria
+Notice Period: 60
+Expected Salary: 100000
+Specialist: Cardiology
+
+Interview Answers
+------------------------------------------------------------
+Q1: As a cardiologist with 17 years of experience, can you describe a particularly challenging case you managed and how you prioritized patient care to achieve a positive outcome?
+A1: ss
+
+Q2: How do you stay current with the latest advancements and research in cardiology, and can you give an example of how you've incorporated new knowledge or techniques into your practice?
+A2: deq
+
+Q3: Can you discuss a situation where you had to work collaboratively with a multidisciplinary team, such as nurses, surgeons, and other specialists, to provide comprehensive care to a patient with a complex cardiac condition?
+A3: cda
+
+Q4: What are your weak points as a medical professional, and how are you addressing them?
+A4: da
+
+Evaluation
+------------------------------------------------------------
+Question 1
+   Score: 0
+   Strengths: None
+   Weaknesses: Lack of detail, failure to provide a specific example
+   Suggestions: Provide a detailed example of a challenging case, explain the thought process and decision-making behind prioritizing patient care
+
+Question 2
+   Score: 0
+   Strengths: None
+   Weaknesses: Failure to provide a meaningful response, lack of example or evidence of staying current with advancements
+   Suggestions: Describe specific methods for staying current, such as attending conferences or reading industry publications, and provide an example of incorporating new knowledge into practice
+
+Question 3
+   Score: 0
+   Strengths: None
+   Weaknesses: Lack of detail, failure to provide a specific example of collaborative work
+   Suggestions: Provide a detailed example of working with a multidisciplinary team, explain the role and responsibilities, and describe the outcome and lessons learned
+
+Question 4
+   Score: 0
+   Strengths: None
+   Weaknesses: Failure to provide a meaningful response, lack of self-awareness or example of addressing weaknesses
+   Suggestions: Provide a honest self-assessment, describe specific areas for improvement, and explain the steps being taken to address weaknesses
+
+Final Evaluation
+------------------------------------------------------------
+Average Score: 0
+Overall Strengths: None
+Overall Weaknesses: Lack of detail and specificity in responses, failure to provide meaningful examples or evidence of experience and skills
+Recommendation: Reject
